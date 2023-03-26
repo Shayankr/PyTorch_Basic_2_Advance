@@ -1,0 +1,5 @@
+This folder consists the Notebooks to learn-- how to start building neural network from basics.
+1st Notebook: learn to build a simple multi-layer perceptron neural net for MNIST DIGIT classification.
+2nd Notebook: Add Validation datset part in the 1st Notebook.
+
+so on.........
